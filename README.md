@@ -1,4 +1,4 @@
-# 🛡️ GEULIS V2: Smart Emergency Bracelet for Elderly Living Alone
+# 🛡️ GEULIS V1: Smart Emergency Bracelet for Elderly Living Alone
 
 <p align="center">
   <img src="1.jpg" width="35%" />
