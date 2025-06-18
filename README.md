@@ -1,7 +1,7 @@
 # 🛡️ GEULIS V2: Smart Emergency Bracelet for Elderly Living Alone
 
 <p align="center">
-  <img src="1.jpg" width="15%" />
+  <img src="1.jpg" width="35%" />
 </p>
 
 An IoT-based wearable emergency alert system developed as part of a community-based undergraduate project or KKN (2023–2024), designed to support elderly individuals who live independently—particularly in rural areas such as Purbayan, Yogyakarta.
